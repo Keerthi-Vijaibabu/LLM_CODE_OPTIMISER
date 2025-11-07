@@ -39,6 +39,8 @@ Optimize this code.
 
 Improve:
 - dead code removal
+- Remove common subexpressions
+
 - better naming
 - safer input
 - modularity

@@ -113,7 +113,7 @@ function getWebviewContent(webview: vscode.Webview, extensionUri: vscode.Uri) {
   .row { display:flex; gap:10px; align-items:center; }
   .col { display:flex; flex-direction:column; gap:8px; }
   pre { background:#f5f5f5; padding:10px; overflow:auto; max-height:300px; }
-  .log { background:#111; color:#eee; padding:8px; height:80px; overflow:auto; font-size:12px; }
+  .log { background:#111; color:#000000; padding:8px; height:80px; overflow:auto; font-size:12px; }
   button{padding:6px 10px}
   .diff { display:flex; gap:10px; }
   .panel { flex:1; }
